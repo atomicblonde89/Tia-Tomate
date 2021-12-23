@@ -1,0 +1,152 @@
+body {
+  margin: 0px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #686963;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #686963;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  color: #FFF;
+  text-align: center;
+}
+
+h1 {
+  color: #FFF;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+}
+
+.big-button {
+  display: block;
+  margin: auto;
+  background: #FFF;
+  color: #686963;
+  font-size: 50px;
+  font-weight: 700;
+  padding-left: 180px;
+  padding-right: 180px;
+  padding-top: 28px;
+  padding-bottom: 28px;
+  border-radius: 80px;
+  border: none;
+}
+
+.footer {
+  background-color: #686963;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.footer_img {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
+
+.header {
+  background-color: #E56353;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.header__Title-up {
+  font-weight: 200;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.header__Title-down {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.main__section {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.main__section-tgray {
+  background-color: #91918D;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.main__section-sgray {
+  background-color: #FAFAFA;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.main__section-red {
+  background-color: #E56353;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.main__section-img {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.main__section-h3-white {
+  color: #FFF;
+}
+
+.main__section-p {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.main__section-p-white {
+  width: 50%;
+  display: block;
+  margin: auto;
+  color: #FFF;
+}
+
+.main__section-div1 {
+  background-color: #E56353;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.main__section-div2-div-img {
+  width: 30%;
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.nav {
+  background-color: #FFF;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav__img {
+  width: 450px;
+  height: auto;
+  margin-left: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
